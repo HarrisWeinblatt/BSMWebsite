@@ -1,0 +1,66 @@
+h4 {
+    text-align: center;
+
+}
+
+.navbar-brand {
+    font-weight: bold;
+
+}
+
+.navbar-header a {
+    font-size: 36px;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+.bg-info {
+    height: 300px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-right: 60%;
+
+}
+
+.container1 {
+    background-color: blueviolet;
+    font-size: 20px; 
+    padding: 10px; 
+    border: 1px solid lightgray; 
+    margin: 100px 30px 100px 20px;
+
+}
+
+.container2 {
+    background-color: blueviolet;
+    font-size: 20px; 
+    padding: 10px; 
+    border: 1px solid lightgray; 
+    margin: 100px 30px;
+}
+
+.container3 {
+    background-color: blueviolet;
+    font-size: 20px; 
+    padding: 10px; 
+    border: 1px solid lightgray; 
+    margin: 100px 100px 100px 30px;
+}
+
+img {
+    height: 50%;
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+
